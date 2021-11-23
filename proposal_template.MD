@@ -17,7 +17,7 @@ we are trying to make a model that predicts the bankruptcy of the startups.
 **Reason**: 
 (we choose this model to classify the factors that affects the bankruptcy of the company and then we pass them through multiple decisions to train them and make predictions based on them.)
 
-**Group Number # or Name**: #####Group5(FinYouth)
+**Group Number # or Name**: Group5(FinYouth)
 
 **Group Members**: 
 1. .Nouf Almekawed
