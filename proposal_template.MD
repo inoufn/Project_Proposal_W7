@@ -22,6 +22,6 @@ we are trying to make a model that predicts the bankruptcy of the startups.
 **Group Members**: 
 1. .Nouf Almekawed
 2. .Afnan Albaqami
-3. .Khloud Huraib
+3. .khaloud hurayb
 4. .Zainab Aldadoug
 5. .Reem Alrashidy
